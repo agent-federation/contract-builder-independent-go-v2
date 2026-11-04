@@ -1,6 +1,6 @@
 # PAP Phase 2a experimental — Go release
 
-- module: `github.com/agent-federation/pap-verifier-go`
+- module: `github.com/agent-federation/contract-builder-independent-go-v2`
 - experiment: `PAP-GO-P2A-003`; Gate 3 result commit: `8d49d69`
 - scope: Phase 2a only; not full PAP/Tier B conformance
 - license: MIT
@@ -14,7 +14,7 @@ go build -o pap .
 ## Install (after registry/version publication)
 
 ```bash
-go install github.com/agent-federation/pap-verifier-go@v0.1.0-phase2a.2
+go install github.com/agent-federation/contract-builder-independent-go-v2@v0.1.0-phase2a.3
 ```
 
 ## Evidence
