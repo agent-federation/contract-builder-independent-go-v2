@@ -16,3 +16,14 @@ dist/
 htmlcov/
 /target
 /tools
+
+# Go
+*.exe
+*.test
+*.out
+go.work
+vendor/
+papverifier
+
+.gocache/
+.gopath/
