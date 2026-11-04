@@ -1,3 +1,3 @@
-module papverifier
+module github.com/agent-federation/pap-verifier-go
 
 go 1.24.13
